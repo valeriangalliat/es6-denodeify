@@ -1,5 +1,4 @@
-es6-denodeify
-=============
+# es6-denodeify [![npm version](http://img.shields.io/npm/v/es6-denodeify.svg?style=flat-square)](https://www.npmjs.org/package/es6-denodeify)
 
 > Convert callbacks to promises.
 
