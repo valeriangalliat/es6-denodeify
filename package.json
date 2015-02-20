@@ -32,6 +32,6 @@
   },
 
   "devDependencies": {
-    "6to5": "^3.5.3"
+    "babel": "^4.3.0"
   }
 }
