@@ -1,5 +1,5 @@
-export default (Promise=Promise) => f =>
+export default (PromiseArg=Promise) => f =>
   (...args) =>
-    new Promise((resolve, reject) =>
+    new PromiseArg((resolve, reject) =>
       f(...args, (err, val) => err ? reject(err) : resolve(val))
     )
