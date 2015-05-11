@@ -32,6 +32,6 @@
   },
 
   "devDependencies": {
-    "babel": "^4.3.0"
+    "babel": "^5.2.17"
   }
 }
